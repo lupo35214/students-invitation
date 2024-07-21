@@ -1,5 +1,7 @@
-##School Invitation Letter
-This include these informantin
-*location
-*time
-*events
+## School Invitation Letter
+
+This include these informantion
+
+- location
+- time
+- events
